@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Harry Poter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "cost": 420
+    },
+    {
+      "id": 2,
+      "author": "gdgd",
+      "name": "gfdgdfg",
+      "cost": 454
+    },
+    {
+      "id": 3,
+      "author": "Dr. Stephen Strange",
+      "name": "The Book Of Vinchande",
+      "cost": 1e+60
+    }
+  ]
+}
